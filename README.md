@@ -5,7 +5,7 @@
 
 - ✍ I'm a student of: [FPT Univercity] (FPTU).
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **Software Engineering.**
 
 
 ## 📫 How to reach me:
