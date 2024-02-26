@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Hieu Trung</h1>
+![image](https://github.com/dinone10/Trungth1010/assets/105847496/d80b7123-7664-4a5c-b954-6ab8a1edcc1b)<h1 align="center">Hi 👋, I'm Hieu Trung</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
 
 
-- ✍ I'm a student of: [FPT Univercity] (FPTU).
+- ✍ I graduated from: [FPT Univercity] (FPTU).
+
+- 🌱 I interned at: FPT Software
 
 - 🌱 I’m currently learning **Software Engineering.**
+
 
 
 ## 📫 How to reach me:
