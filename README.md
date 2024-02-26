@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **Software Engineering.**
 
 
+![image](https://github.com/dinone10/Trungth1010/assets/105847496/d59a86d4-6f55-40b6-94d9-f19740dd670d)
 
 ## 📫 How to reach me:
 
