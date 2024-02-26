@@ -1,29 +1,31 @@
-<h1 align="center">Hi 👋, I'm Hieu Trung</h1>
-<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">A passionate developer from Vietnam </h3>
+# Introduction 
+TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 
+# Getting Started
+TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
+1.	Installation process
+2.	Software dependencies
+3.	Latest releases
+4.	API references
 
-- ✍ I graduated from: [FPT Univercity] (FPTU).
+# Build and Test
+TODO: Describe and show how to build your code and run the tests. 
 
-- 🌱 I interned at: FPT Software
+# Contribute
+TODO: Explain how other users and developers can contribute to make your code better. 
 
-- 🌱 I’m currently learning **Software Engineering.**
+If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
+- [ASP.NET Core](https://github.com/aspnet/Home)
+- [Visual Studio Code](https://github.com/Microsoft/vscode)
+- [Chakra Core](https://github.com/Microsoft/ChakraCore)
 
+this is develop
+this is ng
+from linhnln 
 
-![image](https://github.com/dinone10/Trungth1010/assets/105847496/d59a86d4-6f55-40b6-94d9-f19740dd670d)
-
-## 📫 How to reach me:
-
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-<p align="center">
-  <a href="https://www.facebook.com/profile.php?id=100007756279091" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/dinone10" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  <a href="mailto:ht10102001@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
-</p>
-
+#hello
+from hungnv with love
+add some thing
+test CD NHLN
+cd bla
+test CI & CD
